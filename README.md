@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/45271583/118736711-3b132f80-b811-11eb-8248-2dd5168da82c.png)
+
 # My Dmenu Config
 
 ## Dependencies:
